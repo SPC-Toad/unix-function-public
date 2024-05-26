@@ -4,6 +4,10 @@ This project consists of tools for examining sections and symbols of object file
 
 ## Demo video
 
+https://github.com/SPC-Toad/unix-function-public/assets/111462911/7f80847d-a118-48fa-8295-71cacba36351
+
+
+
 
 ## Want to view how I implemented it?
     Please contact me seperately. I will give you access to my private repository where the code is. 
